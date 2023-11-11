@@ -1,5 +1,5 @@
 ### Hola soy Pablo  👋
-
+## Soy Pablo, un apasionado estudiante de ciencia de datos que está aprendiendo a programar con Python. Mi objetivo es utilizar la programación y el análisis de datos para obtener información valiosa y tomar decisiones informadas. Estoy emocionado por explorar el mundo de la ciencia de datos y aplicar mis conocimientos en proyectos desafiantes. Mi interés en el campo me impulsa a expandir mis habilidades y compartir conocimientos con la comunidad. ¡Únete a mí en este viaje hacia el descubrimiento y la innovación en el mundo de la ciencia de datos! 😄⚡ 
 <!--
 **JpabloRR1/JpabloRR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
